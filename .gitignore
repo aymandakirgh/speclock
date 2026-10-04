@@ -1,6 +1,7 @@
 node_modules/
 dist/
 coverage/
+node-compile-cache/
 *.log
 .DS_Store
 .vitest/
