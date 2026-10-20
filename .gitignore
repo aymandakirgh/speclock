@@ -7,6 +7,8 @@ coverage/
 *.tmp
 .speclock-tmp/
 
+node-compile-cache/
+
 # Python (from the pytest example/fixtures)
 __pycache__/
 *.py[cod]
